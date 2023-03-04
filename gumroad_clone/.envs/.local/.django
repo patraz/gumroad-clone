@@ -2,3 +2,7 @@
 # ------------------------------------------------------------------------------
 USE_DOCKER=yes
 IPYTHONDIR=/app/.ipython
+STRIPE_PUBLIC_KEY=pk_test_51KcFlMBxoujxEv9QHTRs8e6wXSwbQgcXS1GPmiVTZItjiVIIoWIHEP7vV12KALE0hYOdG4qHOVVKvT6Q1QnSW0YS00QYQDjfl1
+STRIPE_PRIVATE_KEY=sk_test_51KcFlMBxoujxEv9QrPEHwa7q7Xthl532LKdEMBbW1QngniGtynQIOrpscJygEy41yTbJTS1mZHh1QyGuayUrfhWc00tzYvKfSs
+
+STRIPE_WEBHOOK_SECRET=whsec_pQYU7eczOoRTOzbDHhrgUKSKqRbUcdjN
