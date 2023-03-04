@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=gumroad_clone
+POSTGRES_USER=qQMXkzpUyBlYanzqLtdhRwJPiYHUVuEG
+POSTGRES_PASSWORD=viebQqYtPTrh6Yiz6971K0LGRrhb6DowIUA8QSTygx3sQbvBqsbDVDnidcXUEAJ5
